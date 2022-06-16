@@ -2,7 +2,7 @@
 - 👀 I’m interested in climate change, mental health well-being and gaming accessibility.
 - 🌱 I’m currently learning automation.
 - 💞️ I’m looking to collaborate on AAA gaming titles and software releases.
-- 📫 How to reach me: email, cel via Indeed.com, LinkedIn or Socials.
+- 📫 How to reach me: https://linktr.ee/GarrySands
 
 <!---
 TigerMatahari/TigerMatahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
