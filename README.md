@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @TigerMatahari
-- 👀 I’m interested in climate change, mental health well-being and gaming accessibility.
+- 👋 About: QA Leader with over a decade of experience in the Gaming Industry. Featuring an extensive background in production; specializing in creative timeline solutions, data visualization, game development risk mitigation, internal and external team management, extensive project management at scale, production training and mentoring, and team workflow optimizations. Delivering empathy, accountability, quality and team maximization.
+
+- 🎓 Executive Masters in Business Administration
+- 🏆 Certified ScrumMaster
+- ✅ ISTQB CTFL
+- ✅ Quality Assurance Engineering Certification
+- ✅ Lean Six Sigma BlackBelt
 - 🌱 I’m currently learning automation.
-- 💞️ I’m looking to collaborate on AAA gaming titles and software releases.
 - 📫 How to reach me: https://linktr.ee/GarrySands
 
 <!---
