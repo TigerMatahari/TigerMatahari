@@ -1,4 +1,4 @@
-- 👋 About: QA Leader with over a decade of experience in the Gaming Industry. Featuring an extensive background in production; specializing in creative timeline solutions, data visualization, game development risk mitigation, internal and external team management, extensive project management at scale, production training and mentoring, and team workflow optimizations. Delivering empathy, accountability, quality and team maximization.
+- 👋 QA Lead with over a decade of experience in the Gaming Industry. Featuring an extensive background in production; specializing in creative timeline solutions, data visualization, game development risk mitigation, internal and external team management, extensive project management at scale, production training and mentoring, and team workflow optimizations. Delivering empathy, accountability, quality and team maximization.
 
 - 🎓 Executive Masters in Business Administration
 - 🏆 Certified ScrumMaster
