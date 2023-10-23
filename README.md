@@ -5,8 +5,9 @@
 - ✅ ISTQB CTFL
 - ✅ Quality Assurance Engineering Certification
 - ✅ Lean Six Sigma BlackBelt
-- 🌱 I’m currently learning automation.
+- 🌱 I’m currently learning automation. JSON, C# and Scratch.
 - 📫 How to reach me: https://linktr.ee/GarrySands
+- 👾 I have published 2 games and released a ChatGPT Discord Bot.
 
 <!---
 TigerMatahari/TigerMatahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
